@@ -1,4 +1,4 @@
-# carbon-api
+# peoples-bank-api
 The best fintech app
 
 
